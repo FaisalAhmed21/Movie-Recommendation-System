@@ -16,7 +16,7 @@ This project uses machine learning techniques to recommend movies based on:
 
 ## Dataset
 
-The dataset is attached to the Releases section of this repository. Ensure the dataset is downloaded and placed in the correct directory as expected by the notebook.
+The dataset is attached in the repository. Ensure the dataset is downloaded and placed in the correct directory as expected by the notebook.
 
 ## Installation
 
