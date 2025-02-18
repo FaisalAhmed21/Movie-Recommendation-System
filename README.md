@@ -16,7 +16,7 @@ This project uses machine learning techniques to recommend movies based on:
 
 ## Dataset
 
-The dataset is attached in the repository. Ensure the dataset is downloaded and placed in the correct directory as expected by the notebook.
+The dataset is attached in the repository. The dataset contains 10,000 movies with 9 columns, including information such as movie titles, genres, release dates, popularity, and average votes. Ensure the dataset is downloaded and placed in the correct directory as expected by the notebook.
 
 ## Installation
 
