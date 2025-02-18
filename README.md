@@ -24,4 +24,4 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FaisalAhmed21/movie-recommendation-system.git
+   git clone https://github.com/FaisalAhmed21/Movie-Recommendation-System.git
